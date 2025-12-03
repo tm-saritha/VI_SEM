@@ -21,6 +21,7 @@ h1 {
     object-fit: cover;
     border: 5px solid #555;
     margin-right: 30px;
+    box-shadow:30px blue;
 }
 
 .info-box {
